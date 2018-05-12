@@ -1,0 +1,37 @@
+_repo: Raggedy-Ann-Stories_18190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gruelle, Johnny
+    alias: Gruelle, John B. (John Barton)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '3936'
+    url: http://www.gutenberg.org/2009/agents/3936
+    wikipedia: http://en.wikipedia.org/wiki/Johnny_Gruelle
+description: The very first Raggedy Ann stories! Chock full of color, this charming
+  edition tells tales that have captivated children for generations. Each tale illustrated
+  in full color. Presents a collection of Raggedy Ann stories, including ""Raggedy
+  Ann Rescues Fido, "" and ""Raggedy Ann and the Kittens.""
+gutenberg_issued: '2006-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dolls -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+tableOfContents: Raggedy Ann learns a lesson -- Raggedy Ann and the washing -- Raggedy
+  Ann and the kite -- Raggedy Ann rescues Fido -- Raggedy Ann and the painter -- Raggedy
+  Ann's trip on the river -- Raggedy Ann and the strange dolls -- Raggedy Ann and
+  the kittens -- Raggedy Ann and the fairies' gift -- Raggedy Ann and the chickens
+  -- Raggedy Ann and the mouse -- Raggedy Ann's new sisters.
+title: Raggedy Ann Stories
+url: http://www.gutenberg.org/ebooks/18190
