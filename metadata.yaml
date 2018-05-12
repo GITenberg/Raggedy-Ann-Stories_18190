@@ -16,6 +16,8 @@ description: The very first Raggedy Ann stories! Chock full of color, this charm
   edition tells tales that have captivated children for generations. Each tale illustrated
   in full color. Presents a collection of Raggedy Ann stories, including ""Raggedy
   Ann Rescues Fido, "" and ""Raggedy Ann and the Kittens.""
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18190#Raggedy-Ann-Stories
 gutenberg_issued: '2006-04-17'
 gutenberg_type: Text
 identifiers:
